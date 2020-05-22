@@ -17,7 +17,7 @@
 `npm install`
 
 ## Usage
-Create a input folder and put all the svg you want in here (warning they will get deleted if they are converted. I recommend backing up the svg's before hand )
+Create a `input` folder and put all the svg you want in here (warning they will get deleted if they are converted. I recommend backing up the svg's before hand )
 
 Now run the script with a
 
