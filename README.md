@@ -2,20 +2,17 @@
 > Uses svg2png module to convert folder full of svg
 
 ## Prerequisites 
-**node v12**
-
-**Git** (optional if you are downloading the zip)
+* **node v12**
+* **Git** (optional if you are downloading the zip)
 
 ## Installation
-Clone the the repository or download the zip 
+1. Clone the the repository or download the zip
 
 `git clone https://github.com/ha6000/bulkSVGtoPNG.git`
-
-Change directory to it
+1. Change directory to it
 
 `cd bulkSVGtoPNG`
-
-and install all dependencies
+1. and install all dependencies
 
 `npm install`
 
