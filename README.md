@@ -3,6 +3,7 @@
 
 ## Prerequisites 
 **node v12**
+
 **Git** (optional if you are downloading the zip)
 
 ## Installation
