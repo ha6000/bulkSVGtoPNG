@@ -1,0 +1,28 @@
+{
+  "name": "bulksvgtopng",
+  "version": "1.0.0",
+  "description": "convert bulk amounts of svg to png",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ha6000/bulkSVGtoPNG.git"
+  },
+  "keywords": [
+    "bulk",
+    "svg",
+    "png"
+  ],
+  "author": "Harry Kruger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ha6000/bulkSVGtoPNG/issues"
+  },
+  "homepage": "https://github.com/ha6000/bulkSVGtoPNG#readme",
+  "dependencies": {
+    "pn": "^1.1.0",
+    "svg2png": "^4.1.1"
+  }
+}
