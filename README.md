@@ -6,13 +6,13 @@
 * **Git** (optional if you are downloading the zip)
 
 ## Installation
-1. Clone the the repository or download the zip
+* Clone the the repository or download the zip
 
 `git clone https://github.com/ha6000/bulkSVGtoPNG.git`
-1. Change directory to it
+* Change directory to it
 
 `cd bulkSVGtoPNG`
-1. and install all dependencies
+* and install all dependencies
 
 `npm install`
 
